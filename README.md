@@ -1,1 +1,1 @@
-# Restaurant-management-database
+# Brain-tumor-detection
