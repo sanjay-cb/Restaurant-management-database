@@ -1,1 +1,1 @@
-# Brain-tumor-detection
+# Restaurant Management System
